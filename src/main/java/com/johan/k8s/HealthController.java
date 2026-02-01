@@ -13,6 +13,6 @@ public class HealthController {
 
     @GetMapping("/")
     public String root() {
-        return "Spring Backend is running";
+        return "Hello Harriet";
     }
 }
